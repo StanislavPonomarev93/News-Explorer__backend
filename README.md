@@ -11,15 +11,15 @@
 
 ## Публичный IPv4
 
-* 84.201.150.59
+* `178.154.235.121`
 
-## Installing
+## Application
 
-* `POST http://news-explorer-backend.students.nomoreparties.co/signup` - создает пользователя
-* `POST http://news-explorer-backend.students.nomoreparties.co/signin` - авторизация пользователя
-* `GET http://news-explorer-backend.students.nomoreparties.co/users/me` - показать пользователя
-* `GET http://news-explorer-backend.students.nomoreparties.co/articles` - показать все статьи пользователя
-* `POST http://news-explorer-backend.students.nomoreparties.co/articles` - создать одну статью
-* `DELETE http://news-explorer-backend.students.nomoreparties.co/articles/:id` - удалить одну статью
+* `POST http://api.newsexplorer.students.nomoreparties.space/signup` - создает пользователя
+* `POST http://api.newsexplorer.students.nomoreparties.space/signin` - авторизация пользователя
+* `GET http://api.newsexplorer.students.nomoreparties.space/users/me` - показать пользователя
+* `GET http://api.newsexplorer.students.nomoreparties.space/articles` - показать все статьи пользователя
+* `POST http://api.newsexplorer.students.nomoreparties.space/articles` - создать одну статью
+* `DELETE http://api.newsexplorer.students.nomoreparties.space/articles/:id` - удалить одну статью
 
-### Version 0.0.1
+### Version 0.0.2
