@@ -15,11 +15,11 @@
 
 ## Application
 
-* `POST http://api.newsexplorer.students.nomoreparties.space/signup` - создает пользователя
-* `POST http://api.newsexplorer.students.nomoreparties.space/signin` - авторизация пользователя
-* `GET http://api.newsexplorer.students.nomoreparties.space/users/me` - показать пользователя
-* `GET http://api.newsexplorer.students.nomoreparties.space/articles` - показать все статьи пользователя
-* `POST http://api.newsexplorer.students.nomoreparties.space/articles` - создать одну статью
-* `DELETE http://api.newsexplorer.students.nomoreparties.space/articles/:id` - удалить одну статью
+* `POST http://api.chelentano.students.nomoreparties.space/signup` - создает пользователя
+* `POST http://api.chelentano.students.nomoreparties.space/signin` - авторизация пользователя
+* `GET http://api.chelentano.students.nomoreparties.space/users/me` - показать пользователя
+* `GET http://api.chelentano.students.nomoreparties.space/articles` - показать все статьи пользователя
+* `POST http://api.chelentano.students.nomoreparties.space/articles` - создать одну статью
+* `DELETE http://api.chelentano.students.nomoreparties.space/articles/:id` - удалить одну статью
 
 ### Version 0.0.2
